@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dibyojyoti
+- 👋 Hi, I’m @Dibyojyoti (Dibyojyoti Sanyal). I am a software professional. I have worked and also currently working in software MNCs. I have associated myself with different phases of software lifecycle, speciall development of softwares and features.
 - 👀 I’m interested in cloud, micro services, software architecture infact any new technology in computer science.
 - 🌱 I’m currently learning software architecture.
 - 📫 You can reach me @Linkedin https://www.linkedin.com/in/dibyojyotisanyal/
